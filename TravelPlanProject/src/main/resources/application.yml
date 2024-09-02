@@ -14,7 +14,7 @@ spring:
 server:
   port: 4040
 
-travelPlan:
+travel-plan:
   messages:
     save-success: Travel plan is registered with id value
     save-failure: Oops..!! Something went wrong

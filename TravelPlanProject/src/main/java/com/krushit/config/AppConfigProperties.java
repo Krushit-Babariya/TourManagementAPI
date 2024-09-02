@@ -9,7 +9,7 @@ import lombok.Data;
 
 @Component
 @Data
-@ConfigurationProperties(prefix = "travelPlan")
+@ConfigurationProperties(prefix = "travel-plan")
 public class AppConfigProperties {
 	private Map<String, String> messages;
 }
